@@ -1,0 +1,20 @@
+#box {
+  width: 55px;
+  height: 35px;
+  border: 2px black solid;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(243, 9%, 89%);
+  border-width: 4px;
+  border-color: black;
+  border-radius: 50%;
+}
+
+#box-bulb {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
